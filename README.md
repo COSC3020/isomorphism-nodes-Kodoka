@@ -26,5 +26,13 @@ Such a bijection requires equivalent cardinality between $V_1$ and $V_2$ as:
   |V_2|$, because some vertex in $V_2$ would have no vertex within $V_1$ to
   map from.
   
-Thus, one way or another, if $|V_1| \neq |V_2|$, there can be no function $f:
-V_1 \implies V_2$ that can be both injective and surjective.
+As such, one way or another, if $|V_1| \neq |V_2|$, there can be no function $f:
+V_1 \implies V_2$ that can be both injective and surjective.  
+
+Thus, as an isomorphism between $G_1$ and $G_2$ must have a bijection, $f: V_1
+implies V_2$, and no bijection like that can exist when $|V| \neq |V_2|$, if
+$|V_1| \neq |V_2|$, then $G_1$ and $G_2$ cannot be isomorphic.  
+
+## Sources
+
+## Plagiarism Notice
