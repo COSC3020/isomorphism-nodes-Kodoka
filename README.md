@@ -30,9 +30,16 @@ As such, one way or another, if $|V_1| \neq |V_2|$, there can be no function $f:
 V_1 \implies V_2$ that can be both injective and surjective.  
 
 Thus, as an isomorphism between $G_1$ and $G_2$ must have a bijection, $f: V_1
-implies V_2$, and no bijection like that can exist when $|V| \neq |V_2|$, if
+implies V_2$, and no bijection like that can exist when $|V_1| \neq |V_2|$, if
 $|V_1| \neq |V_2|$, then $G_1$ and $G_2$ cannot be isomorphic.  
 
 ## Sources
 
+I used my work on the isomorphism-nodes-connectivity exercise, to help me put
+together this proof:  
+
+https://github.com/COSC3020/isomorphism-nodes-connectivity-Kodoka  
+
 ## Plagiarism Notice
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
